@@ -39,7 +39,7 @@ El flujo de trabajo en el Notebook está estructurado en las siguientes fases cr
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+(https://github.com/linamoyano21-maker/telecom-analysis)
 
 O:
 
